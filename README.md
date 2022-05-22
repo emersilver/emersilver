@@ -1,4 +1,4 @@
-### 🖖🏾 Olá! meu nome é Emerson
+### 🖖🏾 Olá, meu nome é Emerson!
 
 #
 ## 🦾 Atualmente estudando essas tecnologias 🦿
