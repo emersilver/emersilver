@@ -1,5 +1,9 @@
 ### 🖖🏾 Olá, meu nome é Emerson!
 
+<div>
+  Sou um jovem que ama a área da programação e me dedico diariamente estudando e praticando para me tornar um desenvolvedor profissional.
+</div>
+
 #
 ## 🦾 Atualmente estudando essas tecnologias 🦿
 
@@ -10,6 +14,7 @@
 </div>
 
 #
+👇
 <div>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
