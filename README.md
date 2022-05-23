@@ -5,7 +5,7 @@
 </div>
 
 #
-## 🦾 Estudando essas tecnologias 🦿
+## Estudando essas tecnologias:
 
 <div>
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
