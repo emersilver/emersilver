@@ -1,11 +1,11 @@
 ### 🖖🏾 Olá, meu nome é Emerson!
 
 <div>
-  Sou um jovem que ama a área da programação e me dedico diariamente estudando e praticando para me tornar um desenvolvedor profissional.
+  Sou um jovem que ama programação e me dedico diariamente estudando e praticando para me tornar um desenvolvedor profissional.
 </div>
 
 #
-## 🦾 Atualmente estudando essas tecnologias 🦿
+## 🦾 Estudando essas tecnologias 🦿
 
 <div>
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
