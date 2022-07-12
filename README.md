@@ -1,7 +1,7 @@
 ### 🖖🏾 Olá, meu nome é Emerson!
 
 <div>
-  Sou um jovem que ama programação e me dedico diariamente estudando e praticando para me tornar um desenvolvedor profissional.
+  Sou um jovem estudante de programação e me dedico diariamente praticando e estudando para me tornar um desenvolvedor profissional.
 </div>
 
 #
