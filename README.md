@@ -22,13 +22,13 @@
 </div>
 
 
-<p align="center">
+<p align="right">
 <img src="https://user-images.githubusercontent.com/106023084/179395110-3d2e9ed4-cede-4c92-b966-cad3a8ca32f0.gif">
 </p>
 
 
 #
-<div align="right">
+<div align="center">
   <h3> Sinta-se à vontade para entrar em contato. <h3>
   <a href = "mailto:contactemersilver@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
